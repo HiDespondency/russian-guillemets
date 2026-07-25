@@ -1,0 +1,10 @@
+{
+  "id": "russian-guillemets",
+  "name": "Russian Guillemets",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Replaces straight quotes with Russian guillemets in Markdown text.",
+  "author": "OpenAI Codex",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": false
+}
